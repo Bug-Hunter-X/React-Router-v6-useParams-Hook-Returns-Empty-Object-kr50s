@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when using the `useParams` hook in React Router v6.  The issue arises when attempting to access route parameters from a component that's not directly nested within a route that defines dynamic segments.  The provided solution showcases how to correctly structure the routing to gain access to these parameters.
